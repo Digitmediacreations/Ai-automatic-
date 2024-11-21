@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://go.microsoft.com/fwlink/?linkid=2249904" Version="6.1.2410.14201" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainBundle Name="PowerAutomateProcessMining" Version="6.1.2410.14201" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Uri="https://download.microsoft.com/download/0/4/5/0456a095-1a20-48e4-b3e8-911ae74b21f5/PowerAutomateProcessMining_8wekyb3d8bbwe.msixbundle" />
+  <UpdateSettings>
+    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+  </UpdateSettings>
+</AppInstaller>
